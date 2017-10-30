@@ -8,5 +8,6 @@ title   text<br>
 fenci   text<br>
 cixing  text<br>
 
-更详细的用法见SCWS官网
-http://www.xunsearch.com/scws/
+
+<p>更详细的用法见SCWS官网<br>
+http://www.xunsearch.com/scws/</p>
