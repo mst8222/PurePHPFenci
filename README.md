@@ -6,7 +6,7 @@
 id      int 11    auto-increase<br>
 title   text<br>
 fenci   text<br>
-cixing  text<br>
+cixing  text</br>
 
 
 <p>更详细的用法见SCWS官网<br>
